@@ -4,3 +4,6 @@ https://westurner.github.io/
 - `/tools <https://westurner.github.io/tools/>`__ == `wrdrd.github.io/docs/tools <https://wrdrd.github.io/docs/tools/>`__, `WRD R&D Docs Index <https://wrdrd.github.io/docs/genindex>`__
 - `/wiki <https://westurner.github.io/wiki/>`__ -- `/workflow <https://westurner.github.io/wiki/workflow>`__, `/ideas <https://westurner.github.io/wiki/ideas>`__ 
 - `/resume <https://westurner.github.io/resume/>`__, `/hnlog <https://westurner.github.io/hnlog/>`__, `medium.com/@westurner <https://medium.com/@westurner>`__, `twitter.com/@westurner <https://twitter.com/westurner>`__
+
+.. image:: https://wrdrd.github.io/static/png/drawing-7.09-v0.1.1--_desk.svg.png
+   :target: https://wrdrd.github.io/
