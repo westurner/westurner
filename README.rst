@@ -8,3 +8,4 @@ https://westurner.github.io/
 
 .. image:: https://wrdrd.github.io/static/png/drawing-7.09-v0.1.1--_desk.svg.png
    :target: https://wrdrd.github.io/
+   :alt: WRD R&D
